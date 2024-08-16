@@ -6,7 +6,7 @@ export default function Home() {
 
   const session = useSession();
   return (
-    <div className="h-screen bg-white flex justify-center items-center">
+    <div className="h-screen bg-black flex justify-center items-center">
 
       <div className="flex flex-col justify-center items-center gap-y-10">
 
